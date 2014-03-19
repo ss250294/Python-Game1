@@ -1,0 +1,4 @@
+RUN 
+ppython main.py
+
+(in this directory)
